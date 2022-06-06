@@ -9,4 +9,4 @@ En este curso aprenderas a programar en Python.
 
 ---
 
-![Logo de Python](Imagenes\python-logo.png)
+![Logo de Python](Imagenes/python-logo.png)
